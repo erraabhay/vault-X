@@ -103,7 +103,7 @@ python vault_master.py
 ## 🧑‍💻 Author
 
 **Developer:** [abhay]  
-📧 `your.email@example.com`
+📧 `erraabhay.com`
 
 ---
 
@@ -112,10 +112,3 @@ python vault_master.py
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-### ⭐ If you find this project useful, give it a star and share it! 🌟
-```
-
----
-
-Would you like me to auto-generate this `README.md` in your project directory or help you add the `LICENSE` file too?
