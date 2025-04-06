@@ -103,7 +103,7 @@ python vault_master.py
 ## 🧑‍💻 Author
 
 **Developer:** [abhay]  
-📧 `erraabhay.com`
+📧 `erraabhay@gmail.com`
 
 ---
 
